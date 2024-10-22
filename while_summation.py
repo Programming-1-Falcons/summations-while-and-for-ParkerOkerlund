@@ -1,4 +1,4 @@
-y = int(input("Enter a number: "))
+y = int(input())
 number = y
 sum = 0
 tot = 0
